@@ -2,8 +2,8 @@ body {
     background-color: orange;
   }
 td {
-    border: 2px solid white;
-    background-color: #00DEFF;
+    border: 2px solid #00DEFF;
+    background-color: white;
   }
 table {
     border: 2px solid white;
