@@ -1,3 +1,6 @@
+body {
+    background-color: orange;
+  }
 td {
     border: 2px solid orange;
     background-color: azure;
