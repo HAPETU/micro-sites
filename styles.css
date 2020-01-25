@@ -1,3 +1,6 @@
 td {
     border: 2px solid green;
   }
+tr {
+    border: 2px solid blue;
+  }
