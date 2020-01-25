@@ -1,7 +1,8 @@
 td {
-    border: 2px solid blue;
-    background-color: orange;
+    border: 2px solid orange;
+    background-color: blue;
   }
 table {
-    border: 2px solid blue;
+    border: 2px solid orange;
+    background-color: orange;
   }
