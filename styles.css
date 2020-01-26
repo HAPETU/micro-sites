@@ -9,4 +9,5 @@ td {
 table {
     border: 2px solid #00DEFF;
     background-color: #00DEFF;
+    border-radius: 5px;
   }
