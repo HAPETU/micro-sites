@@ -4,6 +4,7 @@ body {
 td {
     border: 2px solid #00DEFF;
     background-color: white;
+    border-radius: 5px;
   }
 table {
     border: 2px solid #00DEFF;
