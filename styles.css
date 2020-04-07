@@ -1,7 +1,7 @@
 @font-face{
 
-font-family: 'MyWebFont';
-src: url('../fonts/WebFont-Italic.woff') format('woff')
+font-family: 'fontawesome-webfont';
+src: url('https://github.com/HAPETU/micro-sites/blob/master/fontawesome-webfont.woff2') format('woff')
 
 font-weight: normal;
 
