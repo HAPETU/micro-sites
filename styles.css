@@ -1,3 +1,13 @@
+@font-face{
+
+font-family: 'MyWebFont';
+src: url('../fonts/WebFont-Italic.woff') format('woff')
+
+font-weight: normal;
+
+font-style: italic;
+
+}
 body {
     background-color: orange;
     }
