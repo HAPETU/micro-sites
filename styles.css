@@ -1,13 +1,4 @@
-@font-face{
 
-font-family: 'fontawesome-webfont';
-src: url('https://github.com/HAPETU/micro-sites/blob/master/fontawesome-webfont.woff2') format('woff')
-
-font-weight: normal;
-
-font-style: italic;
-
-}
 body {
     background-color: orange;
     }
